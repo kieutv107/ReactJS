@@ -1,2 +1,12 @@
 # ReactJS
-An introduction a about ReactJS
+
+## JSX
+```jsx
+render() {
+  return(
+    <div>
+      <Hello name="John" />
+    </div>
+  );
+ }
+```
